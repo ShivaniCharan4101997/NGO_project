@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion"; // ✅ Correct import
+import { motion } from "framer-motion";
 import Container from "../ui/Container";
 
 const About = () => {
